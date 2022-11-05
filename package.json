@@ -36,7 +36,6 @@
     "lib/index.d.ts"
   ],
   "license": "MIT",
-  "type": "module",
   "exports": "./lib/index.js",
   "types": "lib/index.d.ts",
   "bugs": {
